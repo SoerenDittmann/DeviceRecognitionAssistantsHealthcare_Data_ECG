@@ -23,7 +23,8 @@ Extract orgininating from: Rieth, Cory A.; Amsel, Ben D.; Tran, Randy; Cook, Mai
 Under: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6C3JR1
 
 Finally, this space contains universum data in the form of a .spydata dataframe
-Provided by: Dittmann, S., Mathieu, M.P., Zhang, P., Glodde, A., Dietrich, F. Device recognition assistants as additional data management method for Digital Twins, Work in Progress
+Provided by: Dittmann, S., Mathieu, M.P., Zhang, P., Glodde, A., Dietrich, F. Device recognition assistants as additional data management method for Digital Twins
+Under: Work in Progress
 
 
    
