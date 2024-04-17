@@ -14,7 +14,7 @@ Under: https://physionet.org/content/ecgiddb/1.0.0/
 Provided by: Yakushenko, E.
 Under: https://physionet.org/content/incartdb/1.0.0/  
 
-Please note that due to its size, the INCART_12-lead_Arrhythmia_Database is only added as a link to the source.
+Please note that due to their size, the INCART_12-lead_Arrhythmia_Database and the ECG data are only added as a link to the sources.
 This space contains sample data from a bioreactor process.
 
 3. Database: sktime-tutorial-pydata-amsterdam-2020
